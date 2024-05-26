@@ -1,0 +1,27 @@
+Name,Color,Scales,Venomous,Location,Family,Category
+King Cobra,Yellow,Smooth,Yes,Western Ghats and Eastern Ghats and Northeast India,Elapidae,Elapid
+King Cobra,Black,Smooth,Yes,Western Ghats and Eastern Ghats and Northeast India,Elapidae,Elapid
+Python,Yellow,Smooth,No,Throughout India,Pythonidae,Constrictor
+Python,Green,Smooth,No,Throughout India,Pythonidae,Constrictor
+Rattlesnake,Brown,Scaly,Yes,North America,Viperidae,Viper
+Corn Snake,Red,Smooth,No,North America,Colubridae,Colubrid
+Corn Snake,Orange,Smooth,No,North America,Colubridae,Colubrid
+Black Mamba,Black,Smooth,Yes,Africa,Elapidae,Elapid
+Black Mamba,Silver,Smooth,Yes,Africa,Elapidae,Elapid
+Boa Constrictor,Gray,Scaly,No,South America,Boidae,Constrictor
+Boa Constrictor,Brown,Scaly,No,South America,Boidae,Constrictor
+Garter Snake,Green,Smooth,No,North America,Colubridae,Colubrid
+Garter Snake,Yellow,Smooth,No,North America,Colubridae,Colubrid
+Copperhead,Red,Scaly,Yes,North America,Viperidae,Viper
+Copperhead,Brown,Scaly,Yes,North America,Viperidae,Viper
+Green Tree Python,Green,Smooth,No,Australia,Pythonidae,Constrictor
+Viper,Gray,Scaly,Yes,Worldwide,Viperidae,Viper
+Viper,Green,Scaly,Yes,Worldwide,Viperidae,Viper
+Anaconda,Green,Scaly,No,South America,Boidae,Constrictor
+Anaconda,Black,Scaly,No,South America,Boidae,Constrictor
+Coral Snake,Red,Smooth,Yes,Americas,Elapidae,Elapid
+Coral Snake,Yellow,Smooth,Yes,Americas,Elapidae,Elapid
+Coral Snake,Black,Smooth,Yes,Americas,Elapidae,Elapid
+Milk Snake,Red,Smooth,No,Americas,Colubridae,Colubrid
+Milk Snake,White,Smooth,No,Americas,Colubridae,Colubrid
+Milk Snake,Black,Smooth,No,Americas,Colubridae,Colubrid
